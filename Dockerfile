@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM ubuntu:latest
 MAINTAINER sanjay.dahiya332@gmail.com
 RUN apt install -y apache2 \
   zip \
